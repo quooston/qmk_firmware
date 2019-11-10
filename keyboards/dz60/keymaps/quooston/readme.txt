@@ -1,0 +1,1 @@
+I compiled this with Linux Subsystem for Windows. Follow the instructions to set up for LFW and then just run make dz60:quooston.
